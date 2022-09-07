@@ -1,0 +1,8 @@
+@import './variables.scss';
+@import "~@fontsource/montserrat/index.css";
+@import "~@fontsource/montserrat/300-italic.css";
+
+*{
+    font-family: 'Montserrat';
+    color: $text-color;
+}
